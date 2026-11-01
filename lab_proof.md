@@ -24,6 +24,12 @@ To creatively solve the issue of your homework being eaten by a Demodog, conside
 These ideas should help you manage the situation creatively!
 
 Tools used: cast_interdimensional_spell
+
+## Grounding Check
+
+- Supported by the tool output: the harmless decoy, colored lights, and asking the party to make a safe escape route.
+- Not supported by the tool output: retrieving or redoing the homework, and the claim that these ideas will help.
+
 ## Limitation
 The agent suggested either taking back the assignment or redoing it, and mentioned that such suggestions are helpful; however, the tool had not verified any of them.
 
